@@ -161,7 +161,7 @@ def pygame_update(message_lane):
         pass
     else:
         mode_img = font.render("press F1 for BMI control mode", False, whiteColor)
-        window.blit(mode_img, (800, 700))
+        window.blit(mode_img, (800, 720))
     pygame.display.update()
 
 def draw_gauge_needle(center_x, center_y, ang, length, width):
