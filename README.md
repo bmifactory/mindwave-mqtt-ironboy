@@ -1,6 +1,6 @@
 # mindwave-mqtt-ironboy
 
-Robot manipulation using Neurosky EEG headset
+Robot(ironbot) manipulation using Neurosky EEG headset
 
 Install mindwave-py3
 
